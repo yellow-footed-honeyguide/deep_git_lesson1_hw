@@ -3,7 +3,7 @@ def add(a, b):
     return a + b
 
 def subtract(a, b):
-    # TODO: fix this bug later
+    # FIXME: fix this bug later
     return a + b  # BUG: should be a - b
 
 def multiply(a, b):
@@ -18,12 +18,12 @@ print("5 - 2 =", subtract(5, 2))  # This shows 7 instead of 3!
 # Had pizza today, was good
 
 def divide(a, b):
-    return a / b  # TODO: add zero check
+    return a / b  # FIXME: add zero check
 
 # Unfinished advanced features
 class Scientific:
     def sqrt(self, x):
-        # TODO
+        # FIXME
         pass
 
 # FIXME: everything is broken
