@@ -1,4 +1,4 @@
-# Git Deep Dive - Homework Assignment
+# Homework 1
 
 ## 🎯 Your Mission
 A junior developer made a mess. Fix it using proper Git practices!
