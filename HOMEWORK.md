@@ -1,6 +1,6 @@
 # Homework 1
 
-## 🎯 Your Mission
+## 🎯 Your Mission is fix problems in this repo
 A junior developer made a mess. Fix it using proper Git practices!
 
 ## 📁 Current State
